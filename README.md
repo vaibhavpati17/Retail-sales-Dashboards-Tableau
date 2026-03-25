@@ -44,7 +44,7 @@ The project is designed for:
 ## 📂 Project Files
 Overview dashboard (Q4 2018 snapshot)
 
-![Story 1](https://github.com/naynishb/Retail_Sales_Dashboard/blob/main/images/Story%201.png) 
+<img src="" width="1000"/>&nbsp;
 
 NYC-focused performance analysis (2017–2018) 
 
