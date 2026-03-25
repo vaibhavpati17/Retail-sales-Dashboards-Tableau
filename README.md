@@ -44,22 +44,19 @@ The project is designed for:
 ## 📂 Project Files
 Overview dashboard (Q4 2018 snapshot)
 
-<img src="" width="1000"/>&nbsp;
+<img src="Story 1.png" width="1000"/>&nbsp;
 
 NYC-focused performance analysis (2017–2018) 
 
-![Story 1](https://github.com/naynishb/Retail_Sales_Dashboard/blob/main/images/Story%202.png) 
+<img src="Story 2.png" width="1000"/>&nbsp;
 
 Central region performance (2018)  
 
-![Story 1](https://github.com/naynishb/Retail_Sales_Dashboard/blob/main/images/Story%203.png) 
+<img src="Story 3.png" width="1000"/>&nbsp;
 
 Overall performance (2017–2018 full period)  
 
-![Story 1](https://github.com/naynishb/Retail_Sales_Dashboard/blob/main/images/Story%204.png) 
-
-## 🌍 Live Dashboard
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/naynish.balasaheb.ladkat/viz/Retail_Sales_Analysis_17569707130200/Story1)
+<img src="Story 4.png" width="1000"/>&nbsp;
  
 
 ---
